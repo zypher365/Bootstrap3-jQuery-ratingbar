@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 bootstrap-star-rating
 =====================
 
@@ -141,3 +142,6 @@ Alternatively, you can directly call the plugin options by setting data attribut
 ## License
 
 **bootstrap-star-rating** is released under the BSD 3-Clause License. See the bundled `LICENSE.md` for details.
+=======
+# Bootstrap3-jQuery-ratingbar
+>>>>>>> baa8fb5bbb223af9cede83f103a5c5c0d8f05c3e
